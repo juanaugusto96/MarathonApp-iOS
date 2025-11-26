@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+*/build/
+*.derivedData
+*.os_build
+*.xcuserdata/
+*.xcuserstate
+
+# Pods (si usaras CocoaPods)
+Pods/
+
+# Swift Package Manager
+.swiftpm
+
+# Firebase (Seguridad)
+# Es recomendable NO subir esto a un repo público
+GoogleService-Info.plist
